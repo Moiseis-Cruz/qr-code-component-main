@@ -11,4 +11,4 @@ Desafio onde testei um pouco das minhas habilidades com algumas tags, por exempl
 
 Levei, aproximadamente 35 minutos para concluir.
 
-<img src="">
+<img src="" alt="imagem QR code">
